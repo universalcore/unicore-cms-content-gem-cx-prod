@@ -5,7 +5,7 @@
         "title": "Girl Stories", 
         "slug": "girl-stories", 
         "source": null, 
-        "featured_in_navbar": false, 
+        "featured_in_navbar": true, 
         "id": "772b0216234d464f873e281e83f7a18b"
     }, 
     "model": "GitCategoryModel"
